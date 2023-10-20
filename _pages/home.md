@@ -52,6 +52,12 @@ In 2016, 2018, and 2019, I represented my university, along with two teammates, 
 **[Alpa-AdaptDL](https://willieneis.github.io/)**  
     Ongoing project for resource-adaptive inter and intra-cluster scheduling for deep learning training.
 
+**[Recovering Lost Information from Exponential Moving Averages on HFT Market Data](cv/msc.pdf)**  
+    Preventing EMA deviation from insignificant adjacent time differences. The proposed method was tested against the baseline by comparing trading profits of an RL agent using signals based on each method.
+
+**[NLP For Learning Tamazight](cv/bsc.pdf)**  
+    A language model using system-user interaction to learn the grammatical structure of the Moroccan-native Tamazight language.
+
 **[Kudos](https://kudos.aui.ma/)**  
     Scheduling platform for tutoring sessions offered by Al Akhawayn University
 
