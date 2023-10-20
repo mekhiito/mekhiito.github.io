@@ -1,21 +1,21 @@
-- name: Dr. Richard Feynman
+- name: Abdelmajid Essofi
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  linkedin: https://www.linkedin.com/in/abdelmajid-essofi-849987123/
+  cv: cv/resume.pdf
+  bsc: cv/bsc.pdf
+  msc: cv/msc.pdf
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  number_educ: 3
+  education1: "(2022) M.Sc. Machine Learning, Mohamed Bin Zayed University of Artificial Intelligence"
+  education2: "(2019) B.Sc. Computer Science, Al Akhawayn University in Ifrane"
+  education3: (2017) Exchange Semester, Beloit College
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  education1short: (2022) M.Sc. ML, MBZUAI
+  education2short: (2019) B.Sc CS, AUI
+  education3short: (2017) Exchange, Beloit College
   # education3short: 
   # education4short: 
   # education5short: 
