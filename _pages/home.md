@@ -8,7 +8,7 @@ permalink: /
 
 ### <span style="color:#0D98BA">**Abdelmajid**</span> Essofi
 
-I am a research assistant at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) under the supervision of [Dr. Qirong Ho](https://mbzuai.ac.ae/study/faculty/qirong-ho/) and [Dr. Willie Neiswanger](https://willieneis.github.io/). We are building a robust ecosystem which proposes sustainable solutions to complex optimization problems, such as tuning tasks and automated resource scheduling and allocation. Our work aims to minimize the carbon footprint incurred from training large scale AI models and pipelines through cost-efficient approaches. We aim to push the boundaries of cost-effectiveness and sustainability in large-scale AI infrastructure towards a net-zero emission objective.
+I am a research assistant at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) under the supervision of [Dr. Qirong Ho](https://mbzuai.ac.ae/study/faculty/qirong-ho/) and [Dr. Willie Neiswanger](https://willieneis.github.io/). We are building a robust ecosystem which proposes sustainable solutions to complex optimization problems, such as tuning tasks and automated resource scheduling and allocation. Our work contributes to minimizing the carbon footprint incurred from training large scale AI models and pipelines through cost-efficient approaches. We aim to push the boundaries of cost-effectiveness and sustainability in large-scale AI infrastructure towards a net-zero emission objective.
 
 <!-- <div class="container-fluid">
 <div class="row">
@@ -63,7 +63,7 @@ In 2016, 2018, and 2019, I represented my university, along with two teammates, 
 
 **[Leyton - Morocco](https://leyton.com/ma/)**  
     In June 2019, I took my first steps into the field of AI by joining Leyton as a machine learning engineering intern, where I was in charge of building a prediction model that uses the data collected on advertisement panels to predict the prices of posting advertisements in each panel.
-    
+
 **[Peixoto Atacadista - Brazil](https://www.peixoto.com.br/)**  
     In March 2018, I joined Peixoto Atacadista, a logistics company in Uberlândia, for my first internship as a full-stack software development intern, where I developed a website for their human resources department to manage applications and filter candidate using given filters.
 
