@@ -22,7 +22,8 @@ I am a research assistant at Mohamed Bin Zayed University of Artificial Intellig
 <p style="text-align: center;">My academic timeline.</p>
 
 ### <span style="color:#0D98BA">**Education**</span>
-in 2021-2022, I attended MBZUAI, where I defended my thesis to obtain my MSc in [Machine Learning](https://mbzuai.ac.ae/your-future-starts-here/?utm_source=google&utm_medium=cpc&utm_campaign=student-recruitment&utm_term=machine-learning&utm_content=masters&&utm_marin=pcrid_652099024480_pgrid_150858788281_pkw_machine%20learning%20masters_pmt_b_productid__ptaid_aud-2181372747052:kwd-401329945917_adext_) from MBZUAI under the supervision of [Dr. Le Song](https://dasongle.github.io/index.html).  
+I am currently pursuing a [PhD in machine learning](https://mbzuai.ac.ae/program/doctor-of-philosophy-in-machine-learning/) under the esteemed supervision of [Dr. Takáč](https://mtakac.com/)
+In 2021-2022, I attended MBZUAI, where I defended my thesis to obtain my [MSc in Machine Learning](https://mbzuai.ac.ae/program/master-of-science-in-machine-learning/) from MBZUAI under the supervision of [Dr. Le Song](https://dasongle.github.io/index.html).  
 In 2015-2019, I attended Al Akhawayn University in Ifrane (AUI), where I obtained my BSc in [Computer Science](http://www.aui.ma/en/sse/undergraduates/abet/bscsc.html) under the supervision of [Dr. Violetta Cavalli-Sforza](http://www.aui.ma/en/sse/faculty.html?itemid=117).  
 In Fall 2017, I attended [Beloit College](https://www.beloit.edu/) as an exchange student.
 
